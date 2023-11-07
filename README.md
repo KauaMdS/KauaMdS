@@ -25,5 +25,3 @@
 </div><br/>
 
 Cursando - Desenvolvimento de Sistemas na Etec São Mateus;
-<br/>
-Linguagem favorita - Java
