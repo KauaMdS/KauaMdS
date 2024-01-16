@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-medeiro-610535271)
 
 ### Estatísticas do GitHub
-![KKauaM GitHub stats](https://github-readme-stats.vercel.app/api?username=KKauaM&theme=dark&show_icons=true)
+![KKauaM GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaMdS&theme=dark&show_icons=true)
 
 ### Tecnologias em Processo de Estudo
 <div style="display: inline_block">
