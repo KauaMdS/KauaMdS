@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-medeiro-610535271)
 
 ### Estatísticas do GitHub
-![KKauaM GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaMdS&theme=dark&show_icons=true)
+![KKauaM GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaMdS&theme=darcula&show_icons=true)
 
 ### Tecnologias em Processo de Estudo
 <div style="display: inline_block">
@@ -22,8 +22,8 @@
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <br/><br/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img alt="ZorinOS" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" />
+<!--     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img alt="ZorinOS" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" /> -->
 </div><br/>
 
 Cursando - Desenvolvimento de Sistemas na Etec São Mateus;
