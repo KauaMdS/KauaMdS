@@ -2,7 +2,6 @@
 
 ### Redes Sociais
 [![Site](https://img.shields.io/website?label=Site&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.youtube.com/channel/UCJvY4cJ_Nl7Hg7wy6TGlqWg)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJvY4cJ_Nl7Hg7wy6TGlqWg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://kaua.medeiro.souza@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-medeiro-610535271)
 
