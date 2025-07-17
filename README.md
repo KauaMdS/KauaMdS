@@ -25,7 +25,7 @@
     
 </div><br/>
 
-Cursando - Desenvolvimento de Sistemas na Etec São Mateus;
+Técnico em Desenvolvimento de Sistemas pela ETEC São Mateus;
 
 <!-- 
 Referências
