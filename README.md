@@ -25,7 +25,7 @@
     
 </div><br/>
 
-Técnico em Desenvolvimento de Sistemas pela ETEC São Mateus;
+Formado como Técnico em Desenvolvimento de Sistemas pela ETEC São Mateus;
 
 <!-- 
 Referências
